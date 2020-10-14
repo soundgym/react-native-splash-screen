@@ -45,6 +45,12 @@ Run `npm i react-native-splash-screen --save`
 
 `react-native link react-native-splash-screen` or `rnpm link react-native-splash-screen`
 
+### Required steps
+#### iOS
+1. Open LaunchScreen.storyboard
+2. Click 'View Controller Scene'
+3. Click Inspector > CustomClass > Identity > Storayboard ID > add your LaucnScreen Id
+
 #### Manual installation  
 
 **Android:**
